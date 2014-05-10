@@ -1,0 +1,21 @@
+git remote add origin https://github.com/monocharismatic/datascitoolbox.git
+git add -A
+git commit -m "message"
+git push
+git checkout -b branchname
+git branch
+git checkout master
+
+http://git-scm.com/doc
+https://help.github.com
+Google/Stack Overflow
+
+Markdown
+## This is a secondary heading
+### This is a tertiary heading
+* first item in list
+* second item in list
+* third item in list
+
+http://daringfireball.net/projects/markdown
+http://www.rstudio.com/ide/docs/authoring/using_markdown
